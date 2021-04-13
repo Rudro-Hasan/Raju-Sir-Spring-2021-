@@ -40,9 +40,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `pass`, `phone`) VALUES
-(1, 'KH Mehedi Hasan', 'mehedi@gmail.com', '1234', '016252445'),
+(1, 'Rudro Hasan', 'rudro@gmail.com', '1234', '01674313888'),
 (4, 'Hasan', 'hasan@gmail.com', '1234', '012575675'),
-(5, 'Karim', 'karim@gmail.com', '1234', '135346457');
+(5, 'Raihan', 'raihanm@gmail.com', '1234', '135346457');
 
 --
 -- Indexes for dumped tables
